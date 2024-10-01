@@ -1,17 +1,21 @@
 main{ add()
 {
   printf("addition");
+*************************
 }
 sub()
 {
   printf("subtraction"):
+**************************
 }
 mul()
 {
-  ("Multiplication");  
+("Multiplication");
+**************************
 }
 
 div()
 {
   ("Division");
+***************************  
 }

@@ -1,11 +1,17 @@
 main{ add()
-  {
+{
   printf("addition");
-  }
+}
 sub()
-  {
-  printf("subtraction")
-  }
-mul();
-div();
+{
+  printf("subtraction"):
+}
+mul()
+{
+  ("Multiplication");  
+}
+
+div()
+{
+  ("Division");
 }
